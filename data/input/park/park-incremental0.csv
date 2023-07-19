@@ -1,0 +1,2 @@
+AreaName,AreaID,ParkName,ParkID,Date,StartTime,EndTime,TotalTimeInMinutes,ParkConditions,OtherAnimalSightings,Litter,TemperatureAndWeather,NumberOfSquirrels,SquirrelSighters,NumberOfSighters
+Robbys House,ZZ,Robbys Yard,10199,3/1/2020,3:00:00 PM,3:35:00 PM,35,Calm,"Humans, Pigeons",,"36 degrees, cold, windy",0,72,1
